@@ -1,0 +1,10 @@
+body{
+	background-image:url("img10.jpg");
+	background-attachment:fixed;
+	background-size:cover;
+	background-position:center;
+}
+p{
+	color:yellow;
+	color:hsl(60,100%,90%)
+}
